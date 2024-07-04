@@ -72,4 +72,3 @@ if st.button("次の問題へ🐾"):
   placeholder = st.empty()
   placeholder.empty()
   st.image("animal_cat.png")
-  st.audio("cat1a.mp3",autoplay=True)
